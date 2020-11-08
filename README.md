@@ -7,7 +7,7 @@ This is a simple server side code to up and run as an online server or local ser
 Type this command in your IDE terminal to run and build all the required packages: npm install
 
 # To Run: 
-npm install -g nodemon
-npx nodemon server.js
+* npm install -g nodemon
+* npx nodemon server.js
 
 
