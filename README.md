@@ -1,6 +1,6 @@
-# Railway Ticketing System
+# Simple Server Using NodeJS
 
-This is a my 3rd year project code backup. Will be updated when I'm working on it. 
+This is a simple server side code to up and run as an online server or local server
 
 
 # Before Run(If you run in a local machine)
